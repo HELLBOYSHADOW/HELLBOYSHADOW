@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm SREERAG
+# I'm SREERAG
 
 ### AI Engineer • Software Developer • Builder
 
