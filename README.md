@@ -8,8 +8,9 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/HELLBOYSHADOW/HELLBOYSHADOW/main/b0xwmg.gif" width="700">
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HELLBOYSHADOW/HELLBOYSHADOW/main/b0xwmg.gif" width="700" alt="Animation">
+</p>
 </div>
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HELLBOYSHADOW)
