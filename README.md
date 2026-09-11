@@ -4,6 +4,16 @@
 
 ### AI Engineer • Software Developer • Builder
 
+<div align="center">
+
+<img src="YOUR_TYPING_ANIMATION">
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/HELLBOYSHADOW/HELLBOYSHADOW/main/b0xwmg.gif" width="700">
+
+</div>
+
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HELLBOYSHADOW)
 
 <br>
