@@ -1,51 +1,125 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     SREERAG // PROFILE                         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,40:05001a,75:180033,100:7c3aed&height=250&section=header&text=YOURNAME&fontSize=90&fontColor=a855f7&animation=fadeIn&fontAlignY=45&desc=AI%20ENGINEER%20%E2%80%A2%20DEVELOPER%20%E2%80%A2%20BUILDER&descAlignY=65&descAlign=50&descColor=c084fc&descSize=16&stroke=a855f7&strokeWidth=1" width="100%"/>
+# 👋 Hi, I'm SREERAG
 
-</div>
+### AI Engineer • Software Developer • Builder
 
-<div align="center">
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HELLBOYSHADOW)
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=18&pause=700&color=A855F7&background=00000000&center=true&vCenter=true&multiline=false&width=780&height=36&lines=dev%40workspace%3A~%24+whoami+%E2%86%92+AI+Engineer+%26+Developer;dev%40workspace%3A~%24+focus+%E2%86%92+AI+%C2%B7+LLMs+%C2%B7+Automation+%C2%B7+Computer+Vision;dev%40workspace%3A~%24+projects%2F+%E2%86%92+Learnify+%C2%B7+WhatsApp+Bot+%C2%B7+AI+Systems;dev%40workspace%3A~%24+stack+%E2%86%92+Python+%C2%B7+JavaScript+%C2%B7+React+%C2%B7+Node.js;dev%40workspace%3A~%24+status+%E2%86%92+always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG"/>
-
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=a855f7&labelColor=000000&label=PROFILE+VIEWS" alt="Profile Views"/>
-</a>
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME?tab=followers">
-<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&color=a855f7&labelColor=000000&label=FOLLOWERS" alt="Followers"/>
-</a>
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/STATUS-BUILDING-a855f7?style=for-the-badge&labelColor=000000" alt="Status"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=18&pause=800&color=A855F7&center=true&vCenter=true&width=700&height=40&lines=AI+%26+Software+Developer+%F0%9F%A4%96;Building+intelligent+real-world+applications+%F0%9F%9A%80;LLMs+%7C+Computer+Vision+%7C+Automation;Learn+%E2%86%92+Build+%E2%86%92+Improve+%E2%86%92+Repeat" alt="Typing SVG"/>
 
 </div>
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" width="100%" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
-</picture>
+## 🧠 About Me
+
+I'm an aspiring **AI Engineer and Software Developer** passionate about
+building intelligent and practical technology.
+
+My interests include:
+
+- 🤖 Artificial Intelligence & Machine Learning
+- 🧠 LLMs & Generative AI
+- 👁️ Computer Vision
+- 🎥 Image & Video Intelligence
+- 🔎 OSINT & Intelligence Systems
+- 💬 WhatsApp Automation
+- 🌐 Full-Stack Development
+- ⚙️ APIs & Automation
+
+I learn primarily by **building projects** — experimenting with new
+technologies and turning ideas into functional applications.
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 Featured Projects
+
+| Project | Description | Technologies |
+|:--|:--|:--|
+| 📚 **Learnify** | AI-powered learning platform focused on making learning more interactive and intelligent | AI · Web · Full-Stack |
+| 💬 **WhatsApp Bot** | Automated WhatsApp bot with commands, message processing and intelligent features | Automation · APIs · Node.js |
+| 🤖 **AI Applications** | Experiments and applications using LLMs, Generative AI and intelligent systems | Python · AI · LLMs |
+| 👁️ **Computer Vision** | Projects exploring image and video analysis and visual intelligence | Python · Computer Vision |
+| 🔎 **OSINT Tools** | Investigation concepts combining public information, image intelligence and data analysis | OSINT · Intelligence |
+
+---
+
+## ⚡ What I Build
 
 <div align="center">
 
-```bash
-┌──(developer㉿workspace)-[~]
-└─$ cat about.md
+| 🤖 AI | 👁️ Computer Vision | 💬 Automation | 🌐 Full-Stack |
+|:---:|:---:|:---:|:---:|
+| LLM Applications | Image Analysis | WhatsApp Bots | Web Applications |
+| Generative AI | Video Intelligence | API Automation | React |
+| AI Assistants | Visual Understanding | Workflow Automation | Node.js |
+| AI Experiments | Image Intelligence | Message Processing | REST APIs |
+
+</div>
+
+---
+
+## 🛠️ Tech Arsenal
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend & APIs
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### AI / ML
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+
+### Automation
+
+![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+
+### Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+---
+
+## 🧬 Developer Matrix
+
+```text
+╔══════════════════════════════════════════════════════════╗
+║                  DEVELOPER SYSTEM SCAN                   ║
+╠══════════════════════════════════════════════════════════╣
+║                                                          ║
+║  AI / LLMs          →  LEARNING + BUILDING              ║
+║  Python             →  BUILDING                          ║
+║  JavaScript         →  BUILDING                          ║
+║  Full-Stack         →  BUILDING                          ║
+║  Computer Vision    →  EXPLORING                         ║
+║  Automation         →  BUILDING                          ║
+║  OSINT              →  EXPLORING                         ║
+║  C++                →  LEARNING                          ║
+║                                                          ║
+║  > STATUS: CONSTANTLY EVOLVING                           ║
+╚══════════════════════════════════════════════════════════╝
