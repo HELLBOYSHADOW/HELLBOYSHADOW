@@ -6,9 +6,7 @@
 
 <div align="center">
 
-<img src="YOUR_TYPING_ANIMATION">
-
-<br><br>
+<br>
 
 <img src="https://raw.githubusercontent.com/HELLBOYSHADOW/HELLBOYSHADOW/main/b0xwmg.gif" width="700">
 
