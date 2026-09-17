@@ -12,7 +12,15 @@
 <br>  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=18&pause=500&color=A855F7&center=true&vCenter=true&width=700&height=40&lines=AI+%26+Software+Developer+%F0%9F%A4%96;Building+intelligent+real-world+applications+%F0%9F%9A%80;LLMs+%7C+Computer+Vision+%7C+Automation;Learn+%E2%86%92+Build+%E2%86%92+Improve+%E2%86%92+Repeat" alt="Typing SVG"/>  </div>  
 ---
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="sreeraglesto" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/sreeraglesto?trk=profile-badge">SREERAG R R</a></div>
+<div align="center">
+
+<a href="https://www.linkedin.com/in/sreeraglesto/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Sreerag%20R%20R-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+</div>
+
+<br>
               
 
 <!-- ═══════════════════════════════════════════════════════════ -->
