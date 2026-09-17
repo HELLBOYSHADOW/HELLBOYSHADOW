@@ -12,6 +12,8 @@
 <br>  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=18&pause=500&color=A855F7&center=true&vCenter=true&width=700&height=40&lines=AI+%26+Software+Developer+%F0%9F%A4%96;Building+intelligent+real-world+applications+%F0%9F%9A%80;LLMs+%7C+Computer+Vision+%7C+Automation;Learn+%E2%86%92+Build+%E2%86%92+Improve+%E2%86%92+Repeat" alt="Typing SVG"/>  </div>  
 ---
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=HELLBOYSHADOW)](https://git.io/streak-stats)
+
 🧠 About Me
 
 I'm an aspiring AI Engineer and Software Developer passionate about
