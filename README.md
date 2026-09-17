@@ -1,6 +1,6 @@
-<div align="center">  I'm SREERAG
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=800&letterSpacing=20%25&duration=2000&pause=500&color=F70000&center=true&random=true&width=435&lines=SREERAG+|+LESTO" alt="Typing SVG" /></a>
 
-AI Engineer • Software Developer • Builder
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Archivo+Black&weight=900&size=17&letterSpacing=20%25&duration=1&pause=500&color=6200A5&background=FFFFFF00&center=true&random=true&width=600&lines=AI+Engineer+%E2%80%A2+Software+Developer+%E2%80%A2+Builder" alt="Typing SVG" /></a>
 
 <div align="center">  <br>  <img
   src="https://raw.githubusercontent.com/HELLBOYSHADOW/HELLBOYSHADOW/main/b0xwmg.gif"
@@ -9,7 +9,7 @@ AI Engineer • Software Developer • Builder
 />
 </div>  
 
-<br>  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=18&pause=800&color=A855F7&center=true&vCenter=true&width=700&height=40&lines=AI+%26+Software+Developer+%F0%9F%A4%96;Building+intelligent+real-world+applications+%F0%9F%9A%80;LLMs+%7C+Computer+Vision+%7C+Automation;Learn+%E2%86%92+Build+%E2%86%92+Improve+%E2%86%92+Repeat" alt="Typing SVG"/>  </div>  
+<br>  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=18&pause=500&color=A855F7&center=true&vCenter=true&width=700&height=40&lines=AI+%26+Software+Developer+%F0%9F%A4%96;Building+intelligent+real-world+applications+%F0%9F%9A%80;LLMs+%7C+Computer+Vision+%7C+Automation;Learn+%E2%86%92+Build+%E2%86%92+Improve+%E2%86%92+Repeat" alt="Typing SVG"/>  </div>  
 ---
 
 🧠 About Me
