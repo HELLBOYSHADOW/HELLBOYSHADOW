@@ -289,7 +289,7 @@ REST APIs
 
 ### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=python,js,cpp,sql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,js,c,sql&theme=dark" />
 
 <br><br>
 
