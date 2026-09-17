@@ -26,25 +26,26 @@
 <a href="https://www.linkedin.com/in/sreeraglesto/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-SREERAG%20R%20R-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-&nbsp;&nbsp;
+
+<br><br>
 
 <a href="https://www.instagram.com/o11111111111111111111111111o/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
-&nbsp;&nbsp;
+
+<br><br>
 
 <a href="https://wa.me/918075457421" target="_blank">
   <img src="https://img.shields.io/badge/WhatsApp-sr33r4g.ai-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
 </a>
-&nbsp;&nbsp;
+
+<br><br>
 
 <a href="https://lestofc.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-Visit-E4405F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
 
 </div>
-
-<br>
               
 
 <!-- ═══════════════════════════════════════════════════════════ -->
