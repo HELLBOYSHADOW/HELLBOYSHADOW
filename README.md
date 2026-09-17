@@ -1,7 +1,16 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=800&letterSpacing=20%25&duration=2000&pause=500&color=F70000&center=true&random=true&width=435&lines=SREERAG+|+LESTO" alt="Typing SVG" /></a>
+<div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Archivo+Black&weight=900&size=17&letterSpacing=20%25&duration=1&pause=500&color=A855F7&background=FFFFFF00&center=true&random=true&width=600&lines=AI+Engineer+%E2%80%A2+Software+Developer+%E2%80%A2+Builder" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=800&letterSpacing=20%25&duration=2000&pause=500&color=F70000&center=true&vCenter=true&random=true&width=435&lines=SREERAG+%7C+LESTO" alt="Typing SVG" />
+</a>
 
+<br>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Archivo+Black&weight=900&size=17&letterSpacing=20%25&duration=1&pause=500&color=A855F7&background=FFFFFF00&center=true&vCenter=true&random=true&width=600&lines=AI+Engineer+%E2%80%A2+Software+Developer+%E2%80%A2+Builder" alt="Typing SVG" />
+</a>
+
+</div>
 <div align="center">  <br>  <img
   src="https://raw.githubusercontent.com/HELLBOYSHADOW/HELLBOYSHADOW/main/b0xwmg.gif"
   width="700"
