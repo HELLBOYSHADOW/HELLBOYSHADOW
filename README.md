@@ -37,6 +37,10 @@
 </a>
 
 <a href="https://lestofc.vercel.app/">
+<img src="assets/title-services.svg" width="100%" alt="01 About — Hello, I'm Sushmita.">
+</a>
+
+<a href="https://lestofc.vercel.app/">
 <img src="assets/services.svg" width="100%" alt="02 Recognition — Proof, on the record.">
 </a>
 <img src="assets/achievement-motif-v2.svg" width="100%" alt="Flipkart GRiD 7.0 National Semi-Finalist; Myntra WeForShe HackerRamp 2026 Top 100 Team; CGPA 9.10; LeetCode 400+ problems with peak rating 1321; GeeksforGeeks 400+ problems with rating 1464; CodeChef 415+ problems; HackerRank 5 stars in C, Python and Java.">
