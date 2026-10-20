@@ -28,10 +28,17 @@
   </tr>
 </table>
 
+<a href="https://lestofc.vercel.app/">
 <img src="assets/title-about.svg" width="100%" alt="01 About — Hello, I'm Sushmita.">
-<img src="assets/about.svg" width="100%" alt="About: AI/ML Engineer and Full-Stack Developer. B.Tech in AI and ML at Aditya Engineering College, CGPA 9.10. Full-Stack Development Trainee at Technical Hub, 2025 to 2026. Shipped PolicyGuard AI, a payment gateway, a multi-tenant SaaS platform and StarCloset. Primary language Java; ML in Python; drawn to system design, AWS and machine learning.">
+</a>
 
-<img src="assets/title-recognition.svg" width="100%" alt="02 Recognition — Proof, on the record.">
+<a href="https://lestofc.vercel.app/">
+<img src="assets/about.svg" width="100%" alt="About: AI/ML Engineer and Full-Stack Developer. B.Tech in AI and ML at Aditya Engineering College, CGPA 9.10. Full-Stack Development Trainee at Technical Hub, 2025 to 2026. Shipped PolicyGuard AI, a payment gateway, a multi-tenant SaaS platform and StarCloset. Primary language Java; ML in Python; drawn to system design, AWS and machine learning.">
+</a>
+
+<a href="https://lestofc.vercel.app/">
+<img src="assets/services.svg" width="100%" alt="02 Recognition — Proof, on the record.">
+</a>
 <img src="assets/achievement-motif-v2.svg" width="100%" alt="Flipkart GRiD 7.0 National Semi-Finalist; Myntra WeForShe HackerRamp 2026 Top 100 Team; CGPA 9.10; LeetCode 400+ problems with peak rating 1321; GeeksforGeeks 400+ problems with rating 1464; CodeChef 415+ problems; HackerRank 5 stars in C, Python and Java.">
 
 <img src="assets/title-work.svg" width="100%" alt="03 Selected work — Products, not assignments.">

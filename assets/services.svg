@@ -1,0 +1,719 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 1200 1050"
+     width="1200"
+     height="1050"
+     role="img"
+     aria-labelledby="title desc">
+
+  <title id="title">Services and Skills — Matrix Interface</title>
+  <desc id="desc">Six Matrix-inspired service cards for AI development, WhatsApp automation, Lesto, gaming optimization, Learnify, and OSINT frame analysis.</desc>
+
+  <defs>
+    <!-- Matrix border gradient -->
+    <linearGradient id="matrix-border" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#00FF41" stop-opacity=".9"/>
+      <stop offset=".55" stop-color="#008F11" stop-opacity=".65"/>
+      <stop offset="1" stop-color="#00FF41" stop-opacity=".25"/>
+    </linearGradient>
+
+    <!-- Divider gradient -->
+    <linearGradient id="matrix-divider" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00FF41" stop-opacity=".8"/>
+      <stop offset=".72" stop-color="#008F11" stop-opacity=".5"/>
+      <stop offset="1" stop-color="#008F11" stop-opacity="0"/>
+    </linearGradient>
+
+    <!-- Subtle grid -->
+    <pattern id="micro-grid"
+             width="18"
+             height="18"
+             patternUnits="userSpaceOnUse">
+      <path d="M18 0H0V18"
+            fill="none"
+            stroke="#00FF41"
+            stroke-opacity=".045"
+            stroke-width=".6"/>
+    </pattern>
+
+    <!-- Neon glow -->
+    <filter id="green-glow"
+            x="-40%"
+            y="-40%"
+            width="180%"
+            height="180%">
+      <feGaussianBlur stdDeviation="2.2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <style>
+      .mono {
+        font-family: "Courier New", monospace;
+      }
+
+      .sans {
+        font-family: Arial, Helvetica, sans-serif;
+      }
+
+      .green {
+        fill: #00FF41;
+      }
+
+      .muted {
+        fill: #78A887;
+      }
+
+      .card-title {
+        fill: #F2FFF5;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 24px;
+        font-weight: 700;
+        letter-spacing: -.45px;
+      }
+
+      .description {
+        fill: #C8D4CB;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 13.2px;
+      }
+
+      .category {
+        fill: #00FF41;
+        font-family: "Courier New", monospace;
+        font-size: 11px;
+        letter-spacing: 1.5px;
+      }
+
+      .number {
+        fill: #00FF41;
+        font-family: "Courier New", monospace;
+        font-size: 29px;
+        font-weight: 700;
+      }
+
+      .status {
+        fill: #00FF41;
+        font-family: "Courier New", monospace;
+        font-size: 9px;
+        letter-spacing: .6px;
+      }
+
+      .sys {
+        fill: #63816B;
+        font-family: "Courier New", monospace;
+        font-size: 9px;
+        letter-spacing: .8px;
+      }
+
+      .tag-text {
+        fill: #D8E9DC;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 9.5px;
+        font-weight: 700;
+        letter-spacing: .15px;
+      }
+
+      .tag {
+        fill: #061009;
+        fill-opacity: .55;
+        stroke: #176B32;
+        stroke-opacity: .75;
+        stroke-width: .8;
+      }
+
+      .card {
+        fill: #030704;
+        fill-opacity: .78;
+        stroke: url(#matrix-border);
+        stroke-width: 1;
+      }
+    </style>
+  </defs>
+
+  <!-- Main background -->
+  <rect x="16"
+        y="14"
+        width="1168"
+        height="1022"
+        rx="13"
+        fill="#020503"
+        fill-opacity=".96"/>
+
+  <rect x="16"
+        y="14"
+        width="1168"
+        height="1022"
+        rx="13"
+        fill="url(#micro-grid)"/>
+
+  <!-- Outer Matrix frame -->
+  <path d="M29 14H1171
+           L1184 27
+           V1023
+           L1171 1036
+           H29
+           L16 1023
+           V27Z"
+        fill="none"
+        stroke="url(#matrix-border)"
+        stroke-width="1.2"/>
+
+  <path d="M29 14H1171
+           L1184 27
+           M16 1010V27L29 14
+           M16 1010V1023L29 1036
+           M1171 1036L1184 1023V1010"
+        fill="none"
+        stroke="#00FF41"
+        stroke-opacity=".55"
+        stroke-width="1.1"/>
+
+  <!-- Header -->
+  <rect x="47"
+        y="35"
+        width="7"
+        height="7"
+        fill="#00FF41"
+        filter="url(#green-glow)"/>
+
+  <text x="64"
+        y="43"
+        class="mono green"
+        font-size="13"
+        letter-spacing="2">
+    MATRIX // SERVICES &amp; SKILLS
+  </text>
+
+  <text x="1150"
+        y="42"
+        class="mono muted"
+        font-size="9"
+        text-anchor="end">
+    PROFILE.SYS / 06 MODULES
+  </text>
+
+  <path d="M47 56H1152"
+        stroke="url(#matrix-divider)"
+        stroke-width=".8"/>
+
+  <!-- ====================================== -->
+  <!-- 01 — AI & GENERATIVE AI                -->
+  <!-- ====================================== -->
+
+  <g>
+    <rect class="card"
+          x="47"
+          y="70"
+          width="1106"
+          height="145"
+          rx="9"/>
+
+    <path d="M47 88V79L56 70
+             M1144 70L1153 79V88"
+          fill="none"
+          stroke="#00FF41"
+          stroke-opacity=".65"/>
+
+    <text x="68" y="111" class="number">01</text>
+
+    <path d="M68 123H85"
+          stroke="#00FF41"
+          stroke-width="1.2"/>
+
+    <text x="116" y="91" class="category">
+      AI &amp; GENERATIVE AI
+    </text>
+
+    <text x="116" y="116" class="card-title">
+      AI &amp; GENERATIVE AI DEVELOPMENT
+    </text>
+
+    <text x="116" y="138" class="description">
+      <tspan x="116">
+        Building practical AI-powered applications using large language models, AI APIs, automation, and intelligent user
+      </tspan>
+      <tspan x="116" dy="17">
+        experiences.
+      </tspan>
+    </text>
+
+    <text x="1017"
+          y="91"
+          class="status"
+          text-anchor="end">
+      [ STATUS: ACTIVE ]
+    </text>
+
+    <text x="1130"
+          y="91"
+          class="sys"
+          text-anchor="end">
+      SYS // 01
+    </text>
+
+    <g transform="translate(116 174)">
+      <rect class="tag" width="245" height="25" rx="5"/>
+      <circle cx="12" cy="12.5" r="2.5" class="green"/>
+      <text x="22" y="16" class="tag-text">
+        LLM &amp; GENERATIVE AI APPLICATIONS
+      </text>
+
+      <rect class="tag" x="257" width="245" height="25" rx="5"/>
+      <circle cx="269" cy="12.5" r="2.5" class="green"/>
+      <text x="279" y="16" class="tag-text">
+        GEMINI / GROQ / OPENROUTER APIS
+      </text>
+
+      <rect class="tag" x="514" width="245" height="25" rx="5"/>
+      <circle cx="526" cy="12.5" r="2.5" class="green"/>
+      <text x="536" y="16" class="tag-text">
+        AI AUTOMATION &amp; ASSISTANTS
+      </text>
+
+      <rect class="tag" x="771" width="245" height="25" rx="5"/>
+      <circle cx="783" cy="12.5" r="2.5" class="green"/>
+      <text x="793" y="16" class="tag-text">
+        PROMPT ENGINEERING &amp; AI INTEGRATION
+      </text>
+    </g>
+  </g>
+
+  <!-- ====================================== -->
+  <!-- 02 — WHATSAPP AUTOMATION               -->
+  <!-- ====================================== -->
+
+  <g>
+    <rect class="card"
+          x="47"
+          y="229"
+          width="1106"
+          height="145"
+          rx="9"/>
+
+    <path d="M47 247V238L56 229
+             M1144 229L1153 238V247"
+          fill="none"
+          stroke="#00FF41"
+          stroke-opacity=".65"/>
+
+    <text x="68" y="270" class="number">02</text>
+
+    <path d="M68 282H85"
+          stroke="#00FF41"
+          stroke-width="1.2"/>
+
+    <text x="116" y="250" class="category">
+      WHATSAPP AUTOMATION
+    </text>
+
+    <text x="116" y="275" class="card-title">
+      AI WHATSAPP BOT
+    </text>
+
+    <text x="116" y="297" class="description">
+      <tspan x="116">
+        Building intelligent WhatsApp automation systems with AI-powered conversations, automated responses, and real-
+      </tspan>
+      <tspan x="116" dy="17">
+        time messaging.
+      </tspan>
+    </text>
+
+    <text x="1017"
+          y="250"
+          class="status"
+          text-anchor="end">
+      [ STATUS: ACTIVE ]
+    </text>
+
+    <text x="1130"
+          y="250"
+          class="sys"
+          text-anchor="end">
+      SYS // 02
+    </text>
+
+    <g transform="translate(116 333)">
+      <rect class="tag" width="245" height="25" rx="5"/>
+      <circle cx="12" cy="12.5" r="2.5" class="green"/>
+      <text x="22" y="16" class="tag-text">
+        WHATSAPP BOT DEVELOPMENT
+      </text>
+
+      <rect class="tag" x="257" width="245" height="25" rx="5"/>
+      <circle cx="269" cy="12.5" r="2.5" class="green"/>
+      <text x="279" y="16" class="tag-text">
+        BAILEYS &amp; NODE.JS
+      </text>
+
+      <rect class="tag" x="514" width="245" height="25" rx="5"/>
+      <circle cx="526" cy="12.5" r="2.5" class="green"/>
+      <text x="536" y="16" class="tag-text">
+        AI-POWERED CONVERSATIONS
+      </text>
+
+      <rect class="tag" x="771" width="245" height="25" rx="5"/>
+      <circle cx="783" cy="12.5" r="2.5" class="green"/>
+      <text x="793" y="16" class="tag-text">
+        AUTOMATED MESSAGING &amp; COMMANDS
+      </text>
+    </g>
+  </g>
+
+  <!-- ====================================== -->
+  <!-- 03 — LESTO                              -->
+  <!-- ====================================== -->
+
+  <g>
+    <rect class="card"
+          x="47"
+          y="388"
+          width="1106"
+          height="145"
+          rx="9"/>
+
+    <path d="M47 406V397L56 388
+             M1144 388L1153 397V406"
+          fill="none"
+          stroke="#00FF41"
+          stroke-opacity=".65"/>
+
+    <text x="68" y="429" class="number">03</text>
+
+    <path d="M68 441H85"
+          stroke="#00FF41"
+          stroke-width="1.2"/>
+
+    <text x="116" y="409" class="category">
+      AI / AUTOMATION
+    </text>
+
+    <text x="116" y="434" class="card-title">
+      LESTO
+    </text>
+
+    <text x="116" y="456" class="description">
+      <tspan x="116">
+        A cross-platform AI personal assistant that uses natural language and voice commands to control PC and Android
+      </tspan>
+      <tspan x="116" dy="17">
+        devices, combining AI agents, ADB automation, application control, web navigation, and intelligent task execution.
+      </tspan>
+    </text>
+
+    <text x="1017"
+          y="409"
+          class="status"
+          text-anchor="end">
+      [ STATUS: ACTIVE ]
+    </text>
+
+    <text x="1130"
+          y="409"
+          class="sys"
+          text-anchor="end">
+      SYS // 03
+    </text>
+
+    <g transform="translate(116 492)">
+      <rect class="tag" width="245" height="25" rx="5"/>
+      <circle cx="12" cy="12.5" r="2.5" class="green"/>
+      <text x="22" y="16" class="tag-text">
+        AI AGENT &amp; NATURAL LANGUAGE CONTROL
+      </text>
+
+      <rect class="tag" x="257" width="245" height="25" rx="5"/>
+      <circle cx="269" cy="12.5" r="2.5" class="green"/>
+      <text x="279" y="16" class="tag-text">
+        PC &amp; ANDROID AUTOMATION
+      </text>
+
+      <rect class="tag" x="514" width="245" height="25" rx="5"/>
+      <circle cx="526" cy="12.5" r="2.5" class="green"/>
+      <text x="536" y="16" class="tag-text">
+        ADB DEVICE CONTROL
+      </text>
+
+      <rect class="tag" x="771" width="245" height="25" rx="5"/>
+      <circle cx="783" cy="12.5" r="2.5" class="green"/>
+      <text x="793" y="16" class="tag-text">
+        VOICE COMMAND INTEGRATION
+      </text>
+    </g>
+  </g>
+
+  <!-- ====================================== -->
+  <!-- 04 — GAMING OPTIMIZATION               -->
+  <!-- ====================================== -->
+
+  <g>
+    <rect class="card"
+          x="47"
+          y="547"
+          width="1106"
+          height="145"
+          rx="9"/>
+
+    <path d="M47 565V556L56 547
+             M1144 547L1153 556V565"
+          fill="none"
+          stroke="#00FF41"
+          stroke-opacity=".65"/>
+
+    <text x="68" y="588" class="number">04</text>
+
+    <path d="M68 600H85"
+          stroke="#00FF41"
+          stroke-width="1.2"/>
+
+    <text x="116" y="568" class="category">
+      GAMING OPTIMIZATION
+    </text>
+
+    <text x="116" y="593" class="card-title">
+      GAMING PERFORMANCE OPTIMIZER
+    </text>
+
+    <text x="116" y="615" class="description">
+      <tspan x="116">
+        A performance optimization toolkit designed to improve gaming performance through system tuning, Android ADB
+      </tspan>
+      <tspan x="116" dy="17">
+        optimization, resource management, latency reduction, and FPS-focused configurations.
+      </tspan>
+    </text>
+
+    <text x="1017"
+          y="568"
+          class="status"
+          text-anchor="end">
+      [ STATUS: ACTIVE ]
+    </text>
+
+    <text x="1130"
+          y="568"
+          class="sys"
+          text-anchor="end">
+      SYS // 04
+    </text>
+
+    <g transform="translate(116 651)">
+      <rect class="tag" width="245" height="25" rx="5"/>
+      <circle cx="12" cy="12.5" r="2.5" class="green"/>
+      <text x="22" y="16" class="tag-text">
+        PC &amp; ANDROID OPTIMIZATION
+      </text>
+
+      <rect class="tag" x="257" width="245" height="25" rx="5"/>
+      <circle cx="269" cy="12.5" r="2.5" class="green"/>
+      <text x="279" y="16" class="tag-text">
+        ADB-BASED GAMING TWEAKS
+      </text>
+
+      <rect class="tag" x="514" width="245" height="25" rx="5"/>
+      <circle cx="526" cy="12.5" r="2.5" class="green"/>
+      <text x="536" y="16" class="tag-text">
+        FPS &amp; LATENCY OPTIMIZATION
+      </text>
+
+      <rect class="tag" x="771" width="245" height="25" rx="5"/>
+      <circle cx="783" cy="12.5" r="2.5" class="green"/>
+      <text x="793" y="16" class="tag-text">
+        SYSTEM &amp; RESOURCE MANAGEMENT
+      </text>
+    </g>
+  </g>
+
+  <!-- ====================================== -->
+  <!-- 05 — LEARNIFY                           -->
+  <!-- ====================================== -->
+
+  <g>
+    <rect class="card"
+          x="47"
+          y="706"
+          width="1106"
+          height="145"
+          rx="9"/>
+
+    <path d="M47 724V715L56 706
+             M1144 706L1153 715V724"
+          fill="none"
+          stroke="#00FF41"
+          stroke-opacity=".65"/>
+
+    <text x="68" y="747" class="number">05</text>
+
+    <path d="M68 759H85"
+          stroke="#00FF41"
+          stroke-width="1.2"/>
+
+    <text x="116" y="727" class="category">
+      AI LEARNING
+    </text>
+
+    <text x="116" y="752" class="card-title">
+      LEARNIFY
+    </text>
+
+    <text x="116" y="774" class="description">
+      <tspan x="116">
+        An AI-powered learning platform designed to help students understand, organize, and practice educational content
+      </tspan>
+      <tspan x="116" dy="17">
+        through intelligent learning tools.
+      </tspan>
+    </text>
+
+    <text x="1017"
+          y="727"
+          class="status"
+          text-anchor="end">
+      [ STATUS: ACTIVE ]
+    </text>
+
+    <text x="1130"
+          y="727"
+          class="sys"
+          text-anchor="end">
+      SYS // 05
+    </text>
+
+    <g transform="translate(116 810)">
+      <rect class="tag" width="245" height="25" rx="5"/>
+      <circle cx="12" cy="12.5" r="2.5" class="green"/>
+      <text x="22" y="16" class="tag-text">
+        AI STUDY ASSISTANCE
+      </text>
+
+      <rect class="tag" x="257" width="245" height="25" rx="5"/>
+      <circle cx="269" cy="12.5" r="2.5" class="green"/>
+      <text x="279" y="16" class="tag-text">
+        AI CHAT &amp; CONTENT PROCESSING
+      </text>
+
+      <rect class="tag" x="514" width="245" height="25" rx="5"/>
+      <circle cx="526" cy="12.5" r="2.5" class="green"/>
+      <text x="536" y="16" class="tag-text">
+        QUIZ &amp; FLASHCARD GENERATION
+      </text>
+
+      <rect class="tag" x="771" width="245" height="25" rx="5"/>
+      <circle cx="783" cy="12.5" r="2.5" class="green"/>
+      <text x="793" y="16" class="tag-text">
+        INTERACTIVE LEARNING EXPERIENCE
+      </text>
+    </g>
+  </g>
+
+  <!-- ====================================== -->
+  <!-- 06 — OSINT + FRAME ANALYSIS             -->
+  <!-- ====================================== -->
+
+  <g>
+    <rect class="card"
+          x="47"
+          y="865"
+          width="1106"
+          height="145"
+          rx="9"/>
+
+    <path d="M47 883V874L56 865
+             M1144 865L1153 874V883"
+          fill="none"
+          stroke="#00FF41"
+          stroke-opacity=".65"/>
+
+    <text x="68" y="906" class="number">06</text>
+
+    <path d="M68 918H85"
+          stroke="#00FF41"
+          stroke-width="1.2"/>
+
+    <text x="116" y="886" class="category">
+      OSINT &amp; COMPUTER VISION
+    </text>
+
+    <text x="116" y="911" class="card-title">
+      OSINT + FRAME ANALYSIS
+    </text>
+
+    <text x="116" y="933" class="description">
+      <tspan x="116">
+        Analyzing visual frames from digital media to extract useful contextual information using computer vision, metadata
+      </tspan>
+      <tspan x="116" dy="17">
+        analysis, and AI-assisted investigation workflows.
+      </tspan>
+    </text>
+
+    <text x="1017"
+          y="886"
+          class="status"
+          text-anchor="end">
+      [ STATUS: ACTIVE ]
+    </text>
+
+    <text x="1130"
+          y="886"
+          class="sys"
+          text-anchor="end">
+      SYS // 06
+    </text>
+
+    <g transform="translate(116 969)">
+      <rect class="tag" width="245" height="25" rx="5"/>
+      <circle cx="12" cy="12.5" r="2.5" class="green"/>
+      <text x="22" y="16" class="tag-text">
+        FRAME ANALYSIS &amp; COMPUTER VISION
+      </text>
+
+      <rect class="tag" x="257" width="245" height="25" rx="5"/>
+      <circle cx="269" cy="12.5" r="2.5" class="green"/>
+      <text x="279" y="16" class="tag-text">
+        METADATA EXTRACTION
+      </text>
+
+      <rect class="tag" x="514" width="245" height="25" rx="5"/>
+      <circle cx="526" cy="12.5" r="2.5" class="green"/>
+      <text x="536" y="16" class="tag-text">
+        CONTEXTUAL INFORMATION ANALYSIS
+      </text>
+
+      <rect class="tag" x="771" width="245" height="25" rx="5"/>
+      <circle cx="783" cy="12.5" r="2.5" class="green"/>
+      <text x="793" y="16" class="tag-text">
+        AI-ASSISTED INVESTIGATION
+      </text>
+    </g>
+  </g>
+
+  <!-- Matrix side indicators -->
+  <g fill="#00FF41" opacity=".85">
+    <rect x="16" y="465" width="3" height="38" rx="1"/>
+    <rect x="1181" y="465" width="3" height="38" rx="1"/>
+    <rect x="16" y="773" width="3" height="24" rx="1"/>
+    <rect x="1181" y="773" width="3" height="24" rx="1"/>
+  </g>
+
+  <!-- Footer -->
+  <text x="47"
+        y="1025"
+        class="mono muted"
+        font-size="8"
+        letter-spacing="1">
+    END OF SERVICE INDEX
+  </text>
+
+  <text x="1153"
+        y="1025"
+        class="mono green"
+        font-size="8"
+        text-anchor="end"
+        letter-spacing="1">
+    ALL SYSTEMS // READY
+  </text>
+
+</svg>
