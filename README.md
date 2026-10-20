@@ -6,17 +6,22 @@
       </a>
     </td>
     <td>
-      <a href="https://www.linkedin.com/in/sushmita-dasari-227a40284/">
+      <a href="https://www.linkedin.com/in/sreeraglesto/">
         <img src="https://img.shields.io/badge/LinkedIn-00C853?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
       </a>
     </td>
     <td>
-      <a href="https://leetcode.com/u/sushmita_dasari/">
-        <img src="https://img.shields.io/badge/LeetCode-00C853?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
+      <a href="https://www.instagram.com/o11111111111111111111111111o">
+        <img src="https://img.shields.io/badge/Instagram-00C853?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
       </a>
     </td>
     <td>
-      <a href="mailto:sushmitadasari17@gmail.com">
+      <a href="https://wa.me/+918075457421">
+        <img src="https://img.shields.io/badge/Whatsapp-00C853?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp">
+      </a>
+    </td>
+    <td>
+      <a href="mailto:shadowsreerag@gmail.com">
         <img src="https://img.shields.io/badge/Email-00C853?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
       </a>
     </td>
