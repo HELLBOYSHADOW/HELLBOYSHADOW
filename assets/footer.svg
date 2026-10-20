@@ -1,0 +1,202 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220">
+  <title>Matrix Digital Rain — GitHub Footer</title>
+  <desc>Animated Matrix-inspired GitHub footer with cascading code and terminal typography.</desc>
+
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#000804"/>
+      <stop offset="50%" stop-color="#001408"/>
+      <stop offset="100%" stop-color="#000502"/>
+    </linearGradient>
+
+    <linearGradient id="scan" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#00ff41" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#00ff41" stop-opacity="0.07"/>
+      <stop offset="100%" stop-color="#00ff41" stop-opacity="0"/>
+    </linearGradient>
+
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#00ff41" stroke-opacity=".08" stroke-width=".7"/>
+    </pattern>
+
+    <filter id="softGlow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <style>
+      .code {
+        font-family: monospace;
+        font-size: 13px;
+        fill: #00ff41;
+      }
+
+      .dim {
+        fill: #008f2b;
+        font-family: monospace;
+        font-size: 12px;
+      }
+
+      .main {
+        font-family: monospace;
+        font-weight: bold;
+        fill: #00ff41;
+        letter-spacing: 4px;
+      }
+
+      .sub {
+        font-family: monospace;
+        fill: #00c936;
+        letter-spacing: 2px;
+      }
+
+      .rain {
+        animation: fall 8s linear infinite;
+      }
+
+      .r2 { animation-delay: -2s; }
+      .r3 { animation-delay: -4s; }
+      .r4 { animation-delay: -6s; }
+      .r5 { animation-delay: -3s; }
+
+      .cursor {
+        animation: blink 1s steps(2, start) infinite;
+      }
+
+      .scanline {
+        animation: scan 6s linear infinite;
+      }
+
+      @keyframes fall {
+        from { transform: translateY(-150px); }
+        to   { transform: translateY(260px); }
+      }
+
+      @keyframes blink {
+        to { opacity: 0; }
+      }
+
+      @keyframes scan {
+        from { transform: translateY(-220px); }
+        to   { transform: translateY(440px); }
+      }
+
+      @media (prefers-reduced-motion: reduce) {
+        .rain, .cursor, .scanline {
+          animation: none;
+        }
+      }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="220" fill="url(#background)"/>
+  <rect width="1200" height="220" fill="url(#grid)"/>
+
+  <!-- Digital rain -->
+  <g opacity=".36">
+    <g class="rain">
+      <text x="35" y="20" class="code">1<tspan x="35" dy="16">0</tspan><tspan x="35" dy="16">1</tspan><tspan x="35" dy="16">1</tspan><tspan x="35" dy="16">0</tspan><tspan x="35" dy="16">1</tspan><tspan x="35" dy="16">0</tspan><tspan x="35" dy="16">0</tspan><tspan x="35" dy="16">1</tspan></text>
+    </g>
+
+    <g class="rain r2">
+      <text x="105" y="5" class="code">0<tspan x="105" dy="16">1</tspan><tspan x="105" dy="16">1</tspan><tspan x="105" dy="16">0</tspan><tspan x="105" dy="16">1</tspan><tspan x="105" dy="16">0</tspan><tspan x="105" dy="16">1</tspan><tspan x="105" dy="16">1</tspan></text>
+    </g>
+
+    <g class="rain r3">
+      <text x="205" y="30" class="code">1<tspan x="205" dy="16">1</tspan><tspan x="205" dy="16">0</tspan><tspan x="205" dy="16">1</tspan><tspan x="205" dy="16">0</tspan><tspan x="205" dy="16">0</tspan><tspan x="205" dy="16">1</tspan></text>
+    </g>
+
+    <g class="rain r4">
+      <text x="315" y="0" class="code">0<tspan x="315" dy="16">1</tspan><tspan x="315" dy="16">0</tspan><tspan x="315" dy="16">1</tspan><tspan x="315" dy="16">1</tspan><tspan x="315" dy="16">0</tspan><tspan x="315" dy="16">1</tspan></text>
+    </g>
+
+    <g class="rain r5">
+      <text x="430" y="15" class="code">1<tspan x="430" dy="16">0</tspan><tspan x="430" dy="16">1</tspan><tspan x="430" dy="16">0</tspan><tspan x="430" dy="16">0</tspan><tspan x="430" dy="16">1</tspan><tspan x="430" dy="16">1</tspan></text>
+    </g>
+
+    <g class="rain r2">
+      <text x="555" y="10" class="code">0<tspan x="555" dy="16">1</tspan><tspan x="555" dy="16">1</tspan><tspan x="555" dy="16">0</tspan><tspan x="555" dy="16">1</tspan><tspan x="555" dy="16">0</tspan></text>
+    </g>
+
+    <g class="rain r3">
+      <text x="670" y="0" class="code">1<tspan x="670" dy="16">0</tspan><tspan x="670" dy="16">0</tspan><tspan x="670" dy="16">1</tspan><tspan x="670" dy="16">1</tspan><tspan x="670" dy="16">0</tspan><tspan x="670" dy="16">1</tspan></text>
+    </g>
+
+    <g class="rain r4">
+      <text x="790" y="20" class="code">0<tspan x="790" dy="16">1</tspan><tspan x="790" dy="16">0</tspan><tspan x="790" dy="16">1</tspan><tspan x="790" dy="16">1</tspan><tspan x="790" dy="16">0</tspan></text>
+    </g>
+
+    <g class="rain r5">
+      <text x="910" y="0" class="code">1<tspan x="910" dy="16">0</tspan><tspan x="910" dy="16">1</tspan><tspan x="910" dy="16">1</tspan><tspan x="910" dy="16">0</tspan><tspan x="910" dy="16">1</tspan></text>
+    </g>
+
+    <g class="rain r2">
+      <text x="1030" y="15" class="code">0<tspan x="1030" dy="16">1</tspan><tspan x="1030" dy="16">1</tspan><tspan x="1030" dy="16">0</tspan><tspan x="1030" dy="16">0</tspan><tspan x="1030" dy="16">1</tspan></text>
+    </g>
+
+    <g class="rain r3">
+      <text x="1150" y="0" class="code">1<tspan x="1150" dy="16">0</tspan><tspan x="1150" dy="16">1</tspan><tspan x="1150" dy="16">0</tspan><tspan x="1150" dy="16">1</tspan><tspan x="1150" dy="16">1</tspan></text>
+    </g>
+  </g>
+
+  <!-- Subtle scanline -->
+  <rect class="scanline" x="0" y="0" width="1200" height="70"
+        fill="url(#scan)" opacity=".6"/>
+
+  <!-- Minimal technical frame -->
+  <path d="M22 22H52 M22 22V42 M1178 22H1148 M1178 22V42
+           M22 178V198H52 M1178 178V198H1148"
+        fill="none" stroke="#00ff41" stroke-width="1.5"/>
+
+  <line x1="65" y1="48" x2="1135" y2="48"
+        stroke="#00ff41" stroke-opacity=".4"/>
+
+  <!-- Terminal header -->
+  <text x="65" y="37" class="sub" font-size="11">
+    [ SYSTEM.SHUTDOWN ]
+  </text>
+
+  <text x="1135" y="37" text-anchor="end" class="dim">
+    CONNECTION: CLOSED
+  </text>
+
+  <!-- Main message -->
+  <text x="600" y="91" text-anchor="middle"
+        class="main" font-size="26" filter="url(#softGlow)">
+    THANKS FOR VISITING
+  </text>
+
+  <text x="600" y="119" text-anchor="middle"
+        class="sub" font-size="12">
+    KEEP BUILDING. KEEP LEARNING. KEEP EVOLVING.
+  </text>
+
+  <!-- Terminal prompt -->
+  <text x="600" y="151" text-anchor="middle"
+        class="code" font-size="13">
+    &gt; EXECUTE IDEAS <tspan fill="#008f2b">//</tspan> CREATE IMPACT
+    <tspan class="cursor" fill="#00ff41">_</tspan>
+  </text>
+
+  <!-- Footer line -->
+  <line x1="65" y1="168" x2="1135" y2="168"
+        stroke="#00ff41" stroke-opacity=".45"/>
+
+  <text x="65" y="188" class="dim" font-size="10">
+    STATUS: ONLINE
+  </text>
+
+  <text x="600" y="188" text-anchor="middle"
+        class="dim" font-size="10">
+    01001000 01000101 01001100 01001100 01001111
+  </text>
+
+  <text x="1135" y="188" text-anchor="end"
+        class="dim" font-size="10">
+    [ END_OF_TRANSMISSION ]
+  </text>
+</svg>
