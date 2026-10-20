@@ -1,391 +1,113 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=800&letterSpacing=20%25&duration=2000&pause=500&color=F70000&center=true&vCenter=true&random=true&width=435&lines=SREERAG+%7C+LESTO" alt="Typing SVG" />
-</a>
-
-<br>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Archivo+Black&weight=900&size=17&letterSpacing=20%25&duration=1&pause=500&color=A855F7&background=FFFFFF00&center=true&vCenter=true&random=true&width=600&lines=AI+Engineer+%E2%80%A2+Software+Developer+%E2%80%A2+Builder" alt="Typing SVG" />
-</a>
-
-</div>
-<div align="center">  <br>  <img
-  src="https://raw.githubusercontent.com/HELLBOYSHADOW/HELLBOYSHADOW/main/b0xwmg.gif"
-  width="700"
-  alt="Sreerag AI Developer Animation"
-/>
-</div>  
-
-<br>  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=18&pause=500&color=A855F7&center=true&vCenter=true&width=700&height=40&lines=AI+%26+Software+Developer+%F0%9F%A4%96;Building+intelligent+real-world+applications+%F0%9F%9A%80;LLMs+%7C+Computer+Vision+%7C+Automation;Learn+%E2%86%92+Build+%E2%86%92+Improve+%E2%86%92+Repeat" alt="Typing SVG"/>  </div>  
----
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/sreeraglesto/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-SREERAG%20R%20R-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<br><br>
-
-<a href="https://www.instagram.com/o11111111111111111111111111o/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-
-<br><br>
-
-<a href="https://wa.me/918075457421" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-sr33r4g.ai-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-</a>
-
-<br><br>
-
-<a href="https://lestofc.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-E4405F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-</a>
-
-</div>
-              
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                         ABOUT ME                            -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<h2 align="center">🧠 About Me</h2>
-
-<div align="center">
-
-### `AI ENGINEER • SOFTWARE DEVELOPER • BUILDER`
-
-<br>
-
-I build **intelligent, practical and experimental software**  
-by combining **AI, automation, computer vision and full-stack development**.
-
-<br>
-
-</div>
-
-<table align="center">
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
-
-### 🤖 AI & Intelligence
-
-- 🧠 Artificial Intelligence & Machine Learning
-- ✨ LLMs & Generative AI
-- 🧩 AI Applications
-- 🔗 Intelligent Systems
-- 🎯 AI Assistants
-
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · hellboyshadow</sub></p>
+<h1>SREERAG R</h1>
+<h2>Frontend or full-stack engineer</h2>
+<p>AI &amp; WHATSAPP AUTOMATION ENGINEER</p>
+<p><strong>● Building and sharing work in public</strong></p>
+<p><sub>Based in Trivandrum, Kerala, India</sub></p>
+<p><a href="https://github.com/hellboyshadow">GitHub</a> &nbsp;·&nbsp; <a href="https://lestofc.vercel.app/">Website</a></p>
 </td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/87899340?u=70521decf2c3a7a59c25501acfc430dc4987c7b4&amp;v=4" width="180" alt="SREERAG R GitHub avatar" />
+</td>
+</tr>
+</table>
+</div>
 
-<td width="50%" valign="top">
+<h2>What teams can evaluate quickly</h2>
 
-### ⚙️ Engineering
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · JavaScript · CSS · HTML</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>4 repositories · 1 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>42 contributions · 10 active days</p></td>
+</tr>
+</table>
 
-- 👁️ Computer Vision
-- 🎥 Image & Video Intelligence
-- 💬 WhatsApp Automation
-- 🌐 Full-Stack Development
-- 🔌 APIs & Automation
+<p><sub>AI &amp; WHATSAPP AUTOMATION ENGINEER</sub></p>
 
+<h2>Proof at a glance</h2>
+
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>4</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>1</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>42</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>2</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=hellboyshadow&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F87899340%3Fu%3D70521decf2c3a7a59c25501acfc430dc4987c7b4%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=hellboyshadow&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F87899340%3Fu%3D70521decf2c3a7a59c25501acfc430dc4987c7b4%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="SREERAG R GitHub proof metrics" />
+</picture>
+</p>
+
+<h2>Selected work</h2>
+
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=hellboyshadow&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F87899340%3Fu%3D70521decf2c3a7a59c25501acfc430dc4987c7b4%26v%3D4&repos=hellboyshadow%2FLearnify-AI%2Chellboyshadow%2Flearnify-backend%2Chellboyshadow%2Fthekkathil%2Chellboyshadow%2FHELLBOYSHADOW&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=hellboyshadow&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F87899340%3Fu%3D70521decf2c3a7a59c25501acfc430dc4987c7b4%26v%3D4&repos=hellboyshadow%2FLearnify-AI%2Chellboyshadow%2Flearnify-backend%2Chellboyshadow%2Fthekkathil%2Chellboyshadow%2FHELLBOYSHADOW&v=recruiter-projects-1&mode=dark" width="100%" alt="SREERAG R selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/HELLBOYSHADOW/Learnify-AI">Learnify-AI</a></h3>
+<p>Complete Learning App</p>
+<p><sub>⭐ 1 · 🍴 0</sub></p>
+<p><a href="https://github.com/HELLBOYSHADOW/Learnify-AI">Read the repository →</a></p>
 </td>
 </tr>
 </table>
 
-<br>
-
-<div align="center">
-
-> **I learn by building.**
->
-> Experiment → Build → Break → Understand → Improve
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    FEATURED PROJECTS                        -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<h2 align="center">🚀 Featured Projects</h2>
-
-<table align="center">
+<table width="100%">
 <tr>
-
-<td width="50%" valign="top">
-
-<h3>📚 Learnify</h3>
-
-AI-powered learning platform designed to make studying more
-**interactive, intelligent and personalized.**
-
-<br>
-
-`AI` `Web` `Full-Stack`
-
-<br><br>
-
-<a href="#">
-<img src="https://img.shields.io/badge/EXPLORE-A855F7?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>💬 WhatsApp AI Bot</h3>
-
-Automation system with commands, message processing and
-**AI-powered interactions**.
-
-<br>
-
-`Node.js` `APIs` `Automation`
-
-<br><br>
-
-<a href="#">
-<img src="https://img.shields.io/badge/EXPLORE-A855F7?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h3>🤖 AI Applications</h3>
-
-Experimental applications using **LLMs, Generative AI and
-intelligent systems**.
-
-<br>
-
-`Python` `AI` `LLMs`
-
-<br><br>
-
-<a href="#">
-<img src="https://img.shields.io/badge/EXPLORE-A855F7?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>👁️ Computer Vision</h3>
-
-Projects exploring **image understanding, video intelligence
-and visual AI**.
-
-<br>
-
-`Python` `Computer Vision` `AI`
-
-<br><br>
-
-<a href="#">
-<img src="https://img.shields.io/badge/EXPLORE-A855F7?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h3>🔎 OSINT Intelligence</h3>
-
-Experimental tools combining **public information, image
-intelligence and data analysis**.
-
-<br>
-
-`OSINT` `AI` `Data Analysis`
-
-<br><br>
-
-<a href="#">
-<img src="https://img.shields.io/badge/EXPLORE-A855F7?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>⚡ More Experiments</h3>
-
-A growing collection of experiments, prototypes and
-**"what if I build this?" projects.**
-
-<br>
-
-`Experiments` `Research` `Building`
-
-<br><br>
-
-<a href="#">
-<img src="https://img.shields.io/badge/VIEW_ALL-111111?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</td>
-
+<td width="33%" valign="top"><h3><a href="https://github.com/HELLBOYSHADOW/learnify-backend">learnify-backend</a></h3><p>A selected public project.</p><p><sub>JavaScript · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/HELLBOYSHADOW/thekkathil">thekkathil</a></h3><p>A selected public project.</p><p><sub>CSS · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/HELLBOYSHADOW/HELLBOYSHADOW">HELLBOYSHADOW</a></h3><p>AI Engineer &amp; Software Developer | Building AI, Whatsapp Automation &amp; Full-Stack Applications</p><p><sub>Open source · ⭐ 0</sub></p></td>
 </tr>
 </table>
 
----
+<h2>Technical toolkit</h2>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                       WHAT I BUILD                          -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=hellboyshadow&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F87899340%3Fu%3D70521decf2c3a7a59c25501acfc430dc4987c7b4%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=hellboyshadow&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F87899340%3Fu%3D70521decf2c3a7a59c25501acfc430dc4987c7b4%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="SREERAG R technology stack" />
+</picture>
+</p>
 
-<h2 align="center">⚡ What I Build</h2>
-
-<br>
-
-<div align="center">
-
-<table>
+<table width="100%">
 <tr>
-
-<td align="center" width="25%">
-
-### 🤖
-
-**AI**
-
-LLM Applications  
-Generative AI  
-AI Assistants  
-AI Experiments
-
-</td>
-
-<td align="center" width="25%">
-
-### 👁️
-
-**VISION**
-
-Image Analysis  
-Video Intelligence  
-Visual Understanding  
-Image Intelligence
-
-</td>
-
-<td align="center" width="25%">
-
-### ⚙️
-
-**AUTOMATION**
-
-WhatsApp Bots  
-API Automation  
-Workflow Systems  
-Message Processing
-
-</td>
-
-<td align="center" width="25%">
-
-### 🌐
-
-**SOFTWARE**
-
-Web Applications  
-React  
-Node.js  
-REST APIs
-
-</td>
-
+<td width="33%" align="center"><strong>JavaScript</strong><br /><sub>45% of public code</sub></td>
+<td width="33%" align="center"><strong>CSS</strong><br /><sub>34% of public code</sub></td>
+<td width="33%" align="center"><strong>HTML</strong><br /><sub>21% of public code</sub></td>
 </tr>
 </table>
 
-</div>
+<h2>Consistency signal</h2>
 
----
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=hellboyshadow&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F87899340%3Fu%3D70521decf2c3a7a59c25501acfc430dc4987c7b4%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=hellboyshadow&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F87899340%3Fu%3D70521decf2c3a7a59c25501acfc430dc4987c7b4%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="SREERAG R contribution activity" />
+</picture>
+</p>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                       TECH ARSENAL                          -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<hr />
 
-<h2 align="center">🛠️ Tech Arsenal</h2>
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/hellboyshadow">GitHub</a><br /><a href="https://lestofc.vercel.app/">Website</a></td>
+</tr>
+</table>
 
-<div align="center">
-
-### 💻 Languages
-
-<img src="https://skillicons.dev/icons?i=python,js,c,sql&theme=dark" />
-
-<br><br>
-
-### 🌐 Frontend
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" />
-
-<br><br>
-
-### ⚙️ Backend & APIs
-
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
-
-<br><br>
-
-### 🧠 AI / ML
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" />
-
-<br><br>
-
-### 🗄️ Databases
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite&theme=dark" />
-
-<br><br>
-
-### 🔧 Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode&theme=dark" />
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    DEVELOPER MATRIX                         -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<h2 align="center">🧬 Developer Matrix</h2>
-
-<div align="center">
-
-```text
-╭──────────────────────────────────────────────────────────────╮
-│                    ◈ SYSTEM PROFILE ◈                        │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  🤖 AI / LLMs          ████████████████░░  BUILDING          │
-│  🐍 Python             █████████████████░  BUILDING          │
-│  ⚡ JavaScript         ███████████████░░░  BUILDING          │
-│  🌐 Full-Stack         ██████████████░░░░  BUILDING          │
-│  👁️ Computer Vision    ███████████░░░░░░  EXPLORING         │
-│  ✨ Generative AI      ███████████░░░░░░  EXPLORING         │
-│  ⚙️ Automation         ███████████████░░░  BUILDING          │
-│  🔎 OSINT              █████████░░░░░░░░  EXPLORING         │
-│  ⚙️ C++                ███████░░░░░░░░░░  LEARNING          │
-│                                                              │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  STATUS  →  CONSTANTLY EVOLVING                              │
-│                                                              │
-╰──────────────────────────────────────────────────────────────╯
+<p align="center"><sub>SREERAG R · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
