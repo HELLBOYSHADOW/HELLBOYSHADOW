@@ -53,22 +53,30 @@
 
 <img src="assets/learnify.svg" width="100%" alt="Flipkart GRiD 7.0 National Semi-Finalist; Myntra WeForShe HackerRamp 2026 Top 100 Team; CGPA 9.10; LeetCode 400+ problems with peak rating 1321; GeeksforGeeks 400+ problems with rating 1464; CodeChef 415+ problems; HackerRank 5 stars in C, Python and Java.">
 <p align="center">
-  <a href="https://lestofc.vercel.app/"><img src="https://img.shields.io/badge/Live_demo-lestofc.vercel.app-451126?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=vercel" alt="StarCloset live demo"></a>
+  <a href="https://github.com/HELLBOYSHADOW/Learnify-AI/releases/tag/v2.0.0">
+    <img src="https://img.shields.io/badge/Download-Learnify_AI-00FF41?style=for-the-badge&labelColor=001A08&logo=github&logoColor=00FF41" alt="Portfolio Live Demo">
+  </a>
 </p>
 
 <img src="assets/whatsapp-bot.svg" width="100%" alt="PolicyGuard AI: LLM Q&A and key-information extraction for 10+ document types across web, extension, mobile and desktop. 500+ documents processed, 92% accuracy, 60% less manual review time. Python, NLP, LLM, REST API.">
 <p align="center">
-  <a href="https://lestofc.vercel.app/"><img src="https://img.shields.io/badge/Live_demo-lestofc.vercel.app-451126?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=vercel" alt="StarCloset live demo"></a>
+  <a href="https://wa.me/918075457421/">
+    <img src="https://img.shields.io/badge/Live_Demo-918075457421-00FF41?style=for-the-badge&labelColor=001A08&logo=whatsapp&logoColor=00FF41" alt="Portfolio Live Demo">
+  </a>
 </p>
 
 <img src="assets/ambience.svg" width="100%" alt="PolicyGuard AI: LLM Q&A and key-information extraction for 10+ document types across web, extension, mobile and desktop. 500+ documents processed, 92% accuracy, 60% less manual review time. Python, NLP, LLM, REST API.">
 <p align="center">
-  <a href="https://lestofc.vercel.app/"><img src="https://img.shields.io/badge/Live_demo-lestofc.vercel.app-451126?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=vercel" alt="StarCloset live demo"></a>
+  <a href="https://ambience-six.vercel.app/">
+    <img src="https://img.shields.io/badge/Live_Demo-ambience--six.vercel.app-00FF41?style=for-the-badge&labelColor=001A08&logo=vercel&logoColor=00FF41" alt="Portfolio Live Demo">
+  </a>
 </p>
 
 <img src="assets/portfolio.svg" width="100%" alt="PolicyGuard AI: LLM Q&A and key-information extraction for 10+ document types across web, extension, mobile and desktop. 500+ documents processed, 92% accuracy, 60% less manual review time. Python, NLP, LLM, REST API.">
 <p align="center">
-  <a href="https://lestofc.vercel.app/"><img src="https://img.shields.io/badge/Live_demo-lestofc.vercel.app-451126?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=vercel" alt="StarCloset live demo"></a>
+  <a href="https://lestofc.vercel.app/">
+    <img src="https://img.shields.io/badge/Live_Demo-lestofc.vercel.app-00FF41?style=for-the-badge&labelColor=001A08&logo=vercel&logoColor=00FF41" alt="Portfolio Live Demo">
+  </a>
 </p>
 
 <a href="https://github.com/Sushmitadasari/Payment-gateway-system-Project"><img src="assets/project-payment-gateway-v2.svg" width="100%" alt="Payment Gateway System: UPI and card payments on a strict processing, success or failed state machine. 1,000+ transactions, 99.8% uptime, 3x throughput. Node.js, Express, PostgreSQL, React, Docker."></a>
