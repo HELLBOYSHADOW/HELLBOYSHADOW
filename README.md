@@ -1,8 +1,3 @@
-<a href="https://lestofc.vercel.app/">
-  <img src="assets/profile.svg" width="100%" alt="SREERAG R — AI/ML Engineer, Full-Stack Developer and Software Developer.">
-</a>
-
-
 <table align="center" style="border: 1px solid #00FF41; border-collapse: separate; border-spacing: 10px; background-color: #050505; border-radius: 8px;">
   <tr>
     <td>
@@ -27,6 +22,13 @@
     </td>
   </tr>
 </table>
+
+<a href="https://lestofc.vercel.app/">
+  <img src="assets/profile.svg" width="100%" alt="SREERAG R — AI/ML Engineer, Full-Stack Developer and Software Developer.">
+</a>
+
+
+
 
 <a href="https://lestofc.vercel.app/">
 <img src="assets/title-about.svg" width="100%" alt="01 About — Hello, I'm Sushmita.">
