@@ -86,6 +86,11 @@
   </a>
 </p>
 
-<a href="https://sushmitadasari.github.io/Sushmitadasari/">
+<a href="https://lestofc.vercel.app/">
+<img src="assets/title-footer.svg" width="100%" alt="01 About — Hello, I'm Sushmita.">
+</a>
+
+
+<a href="https://lestofc.vercel.app/">
   <img src="assets/footer.svg" width="100%" alt="Sushmita — Building systems that can explain themselves.">
 </a>
