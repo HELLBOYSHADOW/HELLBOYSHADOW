@@ -1,0 +1,728 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1200"
+     height="800"
+     viewBox="0 0 1200 800"
+     role="img"
+     aria-labelledby="title desc">
+
+  <title id="title">Animated Matrix Developer Profile</title>
+  <desc id="desc">Matrix-inspired developer dashboard with animated digital rain, terminal, technology stack, and six project cards.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#020b08"/>
+      <stop offset=".55" stop-color="#061b12"/>
+      <stop offset="1" stop-color="#020705"/>
+    </linearGradient>
+
+    <linearGradient id="panel" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#071b12" stop-opacity=".98"/>
+      <stop offset="1" stop-color="#020a07" stop-opacity=".99"/>
+    </linearGradient>
+
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32"
+            fill="none"
+            stroke="#20ff78"
+            stroke-opacity=".075"/>
+    </pattern>
+
+    <clipPath id="screen">
+      <rect width="1200" height="800" rx="18"/>
+    </clipPath>
+
+    <style>
+      .mono {
+        font-family: "Courier New", monospace;
+      }
+
+      .green {
+        fill: #45ff89;
+      }
+
+      .white {
+        fill: #d4ffe2;
+      }
+
+      .muted {
+        fill: #83dca0;
+      }
+
+      .section {
+        font-family: "Courier New", monospace;
+        font-size: 14px;
+        fill: #5aff96;
+      }
+
+      .panel {
+        fill: url(#panel);
+        stroke: #20ff75;
+        stroke-opacity: .55;
+      }
+
+      .card {
+        fill: #071b12;
+        stroke: #27ff79;
+        stroke-opacity: .6;
+      }
+
+      .blink {
+        animation: blink 1s steps(2, start) infinite;
+      }
+
+      .pulse {
+        animation: pulse 2s ease-in-out infinite;
+        transform-box: fill-box;
+        transform-origin: center;
+      }
+
+      .float {
+        animation: float 4s ease-in-out infinite;
+      }
+
+      .rain {
+        fill: #36ff86;
+        font-family: "Courier New", monospace;
+        font-size: 14px;
+      }
+
+      @keyframes blink {
+        0%, 49% { opacity: 1; }
+        50%, 100% { opacity: 0; }
+      }
+
+      @keyframes pulse {
+        0%, 100% { opacity: .55; }
+        50% { opacity: 1; }
+      }
+
+      @keyframes float {
+        0%, 100% { transform: translateY(0); }
+        50% { transform: translateY(-3px); }
+      }
+    </style>
+  </defs>
+
+  <g clip-path="url(#screen)">
+
+    <!-- BACKGROUND -->
+    <rect width="1200" height="800" fill="url(#bg)"/>
+    <rect width="1200" height="800" fill="url(#grid)"/>
+
+    <!-- MATRIX DIGITAL RAIN -->
+
+    <g class="rain">
+
+      <g opacity=".45">
+        <text x="30" y="-120">0101
+          <tspan x="30" dy="18">アイ</tspan>
+          <tspan x="30" dy="18">1100</tspan>
+          <tspan x="30" dy="18">0101</tspan>
+          <tspan x="30" dy="18">∆01</tspan>
+          <animate attributeName="y"
+                   values="-120;820"
+                   dur="8s"
+                   repeatCount="indefinite"/>
+        </text>
+      </g>
+
+      <g opacity=".28">
+        <text x="130" y="-200">1010
+          <tspan x="130" dy="18">0101</tspan>
+          <tspan x="130" dy="18">0100</tspan>
+          <tspan x="130" dy="18">0110</tspan>
+          <tspan x="130" dy="18">1001</tspan>
+          <animate attributeName="y"
+                   values="-200;820"
+                   dur="11s"
+                   repeatCount="indefinite"/>
+        </text>
+      </g>
+
+      <g opacity=".4">
+        <text x="270" y="-80">0110
+          <tspan x="270" dy="18">0101</tspan>
+          <tspan x="270" dy="18">1101</tspan>
+          <tspan x="270" dy="18">アイ</tspan>
+          <tspan x="270" dy="18">0100</tspan>
+          <animate attributeName="y"
+                   values="-80;820"
+                   dur="9s"
+                   repeatCount="indefinite"/>
+        </text>
+      </g>
+
+      <g opacity=".28">
+        <text x="430" y="-240">1001
+          <tspan x="430" dy="18">0010</tspan>
+          <tspan x="430" dy="18">0101</tspan>
+          <tspan x="430" dy="18">1100</tspan>
+          <tspan x="430" dy="18">1010</tspan>
+          <animate attributeName="y"
+                   values="-240;820"
+                   dur="12s"
+                   repeatCount="indefinite"/>
+        </text>
+      </g>
+
+      <g opacity=".36">
+        <text x="600" y="-140">0101
+          <tspan x="600" dy="18">1100</tspan>
+          <tspan x="600" dy="18">0110</tspan>
+          <tspan x="600" dy="18">0101</tspan>
+          <tspan x="600" dy="18">1001</tspan>
+          <animate attributeName="y"
+                   values="-140;820"
+                   dur="10s"
+                   repeatCount="indefinite"/>
+        </text>
+      </g>
+
+      <g opacity=".3">
+        <text x="790" y="-300">1010
+          <tspan x="790" dy="18">0101</tspan>
+          <tspan x="790" dy="18">アイ</tspan>
+          <tspan x="790" dy="18">0100</tspan>
+          <tspan x="790" dy="18">1101</tspan>
+          <animate attributeName="y"
+                   values="-300;820"
+                   dur="13s"
+                   repeatCount="indefinite"/>
+        </text>
+      </g>
+
+      <g opacity=".4">
+        <text x="1010" y="-100">0101
+          <tspan x="1010" dy="18">1100</tspan>
+          <tspan x="1010" dy="18">0110</tspan>
+          <tspan x="1010" dy="18">0101</tspan>
+          <tspan x="1010" dy="18">1001</tspan>
+          <animate attributeName="y"
+                   values="-100;820"
+                   dur="10s"
+                   repeatCount="indefinite"/>
+        </text>
+      </g>
+
+      <g opacity=".28">
+        <text x="1140" y="-260">1010
+          <tspan x="1140" dy="18">0101</tspan>
+          <tspan x="1140" dy="18">アイ</tspan>
+          <tspan x="1140" dy="18">0100</tspan>
+          <tspan x="1140" dy="18">1101</tspan>
+          <animate attributeName="y"
+                   values="-260;820"
+                   dur="14s"
+                   repeatCount="indefinite"/>
+        </text>
+      </g>
+
+    </g>
+
+    <!-- OUTER FRAME -->
+
+    <rect x="18" y="18"
+          width="1164"
+          height="764"
+          rx="14"
+          fill="none"
+          stroke="#25ff78"
+          stroke-opacity=".75"/>
+
+    <path d="M18 68H1182"
+          stroke="#2aff7e"
+          stroke-opacity=".55"/>
+
+    <!-- WINDOW CONTROLS -->
+
+    <circle cx="40" cy="43" r="5" fill="#ff5c5c"/>
+    <circle cx="58" cy="43" r="5" fill="#ffce54"/>
+    <circle cx="76" cy="43" r="5" fill="#27ef78"/>
+
+    <text x="96" y="48"
+          class="mono"
+          font-size="14"
+          fill="#7affab">
+      SYSTEM://PROFILE_ROOT
+    </text>
+
+    <text x="1150" y="48"
+          text-anchor="end"
+          class="mono"
+          font-size="12"
+          fill="#3eff84">
+      [ ONLINE ]
+    </text>
+
+    <!-- TERMINAL -->
+
+    <rect x="38" y="94"
+          width="545"
+          height="238"
+          rx="9"
+          class="panel"/>
+
+    <text x="58" y="121" class="section">
+      01 // TERMINAL_SESSION
+    </text>
+
+    <path d="M58 134H563"
+          stroke="#25ff78"
+          stroke-opacity=".35"/>
+
+    <g class="mono" font-size="14">
+
+      <text x="58" y="164" fill="#36ff80">
+        user@matrix:~$
+        <tspan fill="#d6ffe3"> whoami</tspan>
+      </text>
+
+      <text x="58" y="189" fill="#a0eeb8">
+        Software developer building useful things.
+      </text>
+
+      <text x="58" y="222" fill="#36ff80">
+        user@matrix:~$
+        <tspan fill="#d6ffe3"> cat focus.txt</tspan>
+      </text>
+
+      <text x="58" y="247" fill="#a0eeb8">
+        AI systems · Full-stack apps · Automation
+      </text>
+
+      <text x="58" y="280" fill="#36ff80">
+        user@matrix:~$
+        <tspan fill="#d6ffe3"> git status</tspan>
+      </text>
+
+      <text x="58" y="305" fill="#a0eeb8">
+        On branch main — always learning
+        <tspan fill="#6dffa0" class="blink"> █</tspan>
+      </text>
+
+    </g>
+
+    <!-- TECH STACK -->
+
+    <rect x="601" y="94"
+          width="561"
+          height="238"
+          rx="9"
+          class="panel"/>
+
+    <text x="621" y="121" class="section">
+      02 // TECH_STACK
+    </text>
+
+    <path d="M621 134H1142"
+          stroke="#25ff78"
+          stroke-opacity=".35"/>
+
+    <!-- PROGRAMMING LANGUAGES -->
+
+    <text x="622" y="155"
+          class="mono"
+          font-size="10"
+          fill="#45ff89">
+      LANGUAGES
+    </text>
+
+    <g class="mono" font-size="12" fill="#baffce">
+
+      <g class="float">
+        <rect x="622" y="163"
+              width="82" height="27"
+              rx="4"
+              class="card"/>
+        <text x="663" y="181" text-anchor="middle">PYTHON</text>
+      </g>
+
+      <rect x="711" y="163"
+            width="105" height="27"
+            rx="4"
+            class="card"/>
+      <text x="763" y="181" text-anchor="middle">JAVASCRIPT</text>
+
+      <rect x="823" y="163"
+            width="105" height="27"
+            rx="4"
+            class="card"/>
+      <text x="875" y="181" text-anchor="middle">TYPESCRIPT</text>
+
+      <rect x="935" y="163"
+            width="82" height="27"
+            rx="4"
+            class="card"/>
+      <text x="976" y="181" text-anchor="middle">JAVA</text>
+
+      <rect x="1024" y="163"
+            width="117" height="27"
+            rx="4"
+            class="card"/>
+      <text x="1082" y="181" text-anchor="middle">HTML / CSS</text>
+
+    </g>
+
+    <!-- WEB DEVELOPMENT -->
+
+    <text x="622" y="211"
+          class="mono"
+          font-size="10"
+          fill="#45ff89">
+      WEB DEVELOPMENT
+    </text>
+
+    <g class="mono" font-size="12" fill="#baffce">
+
+      <rect x="622" y="219"
+            width="82" height="27"
+            rx="4"
+            class="card"/>
+      <text x="663" y="237" text-anchor="middle">REACT</text>
+
+      <rect x="711" y="219"
+            width="105" height="27"
+            rx="4"
+            class="card"/>
+      <text x="763" y="237" text-anchor="middle">NEXT.JS</text>
+
+      <rect x="823" y="219"
+            width="105" height="27"
+            rx="4"
+            class="card"/>
+      <text x="875" y="237" text-anchor="middle">NODE.JS</text>
+
+      <rect x="935" y="219"
+            width="82" height="27"
+            rx="4"
+            class="card"/>
+      <text x="976" y="237" text-anchor="middle">EXPRESS</text>
+
+      <rect x="1024" y="219"
+            width="117" height="27"
+            rx="4"
+            class="card"/>
+      <text x="1082" y="237" text-anchor="middle">REST APIs</text>
+
+    </g>
+
+    <!-- AI AND INFRASTRUCTURE -->
+
+    <text x="622" y="267"
+          class="mono"
+          font-size="10"
+          fill="#45ff89">
+      AI / TOOLS / INFRASTRUCTURE
+    </text>
+
+    <g class="mono" font-size="11" fill="#baffce">
+
+      <rect x="622" y="275"
+            width="82" height="27"
+            rx="4"
+            class="card"/>
+      <text x="663" y="293" text-anchor="middle">LLMs</text>
+
+      <rect x="711" y="275"
+            width="105" height="27"
+            rx="4"
+            class="card"/>
+      <text x="763" y="293" text-anchor="middle">GEN AI</text>
+
+      <rect x="823" y="275"
+            width="105" height="27"
+            rx="4"
+            class="card"/>
+      <text x="875" y="293" text-anchor="middle">RAG / MCP</text>
+
+      <rect x="935" y="275"
+            width="82" height="27"
+            rx="4"
+            class="card"/>
+      <text x="976" y="293" text-anchor="middle">GIT</text>
+
+      <rect x="1024" y="275"
+            width="117" height="27"
+            rx="4"
+            class="card"/>
+      <text x="1082" y="293" text-anchor="middle">DOCKER</text>
+
+    </g>
+
+    <text x="622" y="320"
+          class="mono"
+          font-size="10"
+          fill="#67d994">
+      SQL · FIREBASE · PYTORCH · OLLAMA · CUDA
+    </text>
+
+    <!-- PROJECT SECTION -->
+
+    <text x="40" y="367" class="section">
+      03 // ACTIVE_PROJECTS
+    </text>
+
+    <path d="M225 362H1160"
+          stroke="#25ff78"
+          stroke-opacity=".35"/>
+
+    <!-- PROJECT 1: LEARNIFY AI -->
+
+    <g class="float">
+      <rect x="38" y="385"
+            width="356"
+            height="108"
+            rx="8"
+            class="panel"/>
+
+      <text x="56" y="414"
+            class="mono white"
+            font-size="17"
+            font-weight="bold">
+        &gt; Learnify AI
+      </text>
+
+      <text x="56" y="437"
+            class="mono muted"
+            font-size="12">
+        AI-powered learning companion
+      </text>
+
+      <text x="56" y="469"
+            class="mono green"
+            font-size="11">
+        [ AI ] [ LEARNING ] [ APP ]
+      </text>
+
+      <circle cx="373" cy="405" r="4"
+              fill="#39ff85"
+              class="pulse"/>
+    </g>
+
+    <!-- PROJECT 2: WHATSAPP AI BOT -->
+
+    <g>
+      <rect x="422" y="385"
+            width="356"
+            height="108"
+            rx="8"
+            class="panel"/>
+
+      <text x="440" y="414"
+            class="mono white"
+            font-size="17"
+            font-weight="bold">
+        &gt; WhatsApp AI Bot
+      </text>
+
+      <text x="440" y="437"
+            class="mono muted"
+            font-size="12">
+        AI-powered messaging automation
+      </text>
+
+      <text x="440" y="469"
+            class="mono green"
+            font-size="11">
+        [ NODE.JS ] [ AI ] [ API ]
+      </text>
+
+      <circle cx="757" cy="405" r="4"
+              fill="#39ff85"
+              class="pulse"/>
+    </g>
+
+    <!-- PROJECT 3: LESTO PERSONAL ASSISTANT -->
+
+    <g class="float">
+      <rect x="806" y="385"
+            width="356"
+            height="108"
+            rx="8"
+            class="panel"/>
+
+      <text x="824" y="414"
+            class="mono white"
+            font-size="16"
+            font-weight="bold">
+        &gt; Lesto Personal Assistant
+      </text>
+
+      <text x="824" y="437"
+            class="mono muted"
+            font-size="12">
+        Personal AI assistant and automation
+      </text>
+
+      <text x="824" y="469"
+            class="mono green"
+            font-size="11">
+        [ LLM ] [ MCP ] [ AUTOMATION ]
+      </text>
+
+      <circle cx="1141" cy="405" r="4"
+              fill="#39ff85"
+              class="pulse"/>
+    </g>
+
+    <!-- PROJECT 4: STUDENTAI -->
+
+    <g class="float">
+      <rect x="38" y="507"
+            width="356"
+            height="108"
+            rx="8"
+            class="panel"/>
+
+      <text x="56" y="536"
+            class="mono white"
+            font-size="17"
+            font-weight="bold">
+        &gt; StudentAI
+      </text>
+
+      <text x="56" y="559"
+            class="mono muted"
+            font-size="12">
+        AI summaries, quizzes and flashcards
+      </text>
+
+      <text x="56" y="591"
+            class="mono green"
+            font-size="11">
+        [ GEMINI ] [ EXPO ] [ AI ]
+      </text>
+
+      <circle cx="373" cy="527" r="4"
+              fill="#39ff85"
+              class="pulse"/>
+    </g>
+
+    <!-- PROJECT 5: AMBIENCE -->
+
+    <g>
+      <rect x="422" y="507"
+            width="356"
+            height="108"
+            rx="8"
+            class="panel"/>
+
+      <text x="440" y="536"
+            class="mono white"
+            font-size="17"
+            font-weight="bold">
+        &gt; Ambience
+      </text>
+
+      <text x="440" y="559"
+            class="mono muted"
+            font-size="12">
+        Immersive weather and music experience
+      </text>
+
+      <text x="440" y="591"
+            class="mono green"
+            font-size="11">
+        [ NEXT.JS ] [ CSS ] [ WEB ]
+      </text>
+
+      <circle cx="757" cy="527" r="4"
+              fill="#39ff85"
+              class="pulse"/>
+    </g>
+
+    <!-- PROJECT 6: AI / ML LAB -->
+
+    <g class="float">
+      <rect x="806" y="507"
+            width="356"
+            height="108"
+            rx="8"
+            class="panel"/>
+
+      <text x="824" y="536"
+            class="mono white"
+            font-size="17"
+            font-weight="bold">
+        &gt; AI / ML Lab
+      </text>
+
+      <text x="824" y="559"
+            class="mono muted"
+            font-size="12">
+        Experiments with local AI models
+      </text>
+
+      <text x="824" y="591"
+            class="mono green"
+            font-size="11">
+        [ PYTHON ] [ OLLAMA ] [ CUDA ]
+      </text>
+
+      <circle cx="1141" cy="527" r="4"
+              fill="#39ff85"
+              class="pulse"/>
+    </g>
+
+    <!-- FOOTER -->
+
+    <path d="M38 642H1162"
+          stroke="#25ff78"
+          stroke-opacity=".4"/>
+
+    <text x="40" y="665"
+          class="mono"
+          font-size="11"
+          fill="#4fbd7c">
+      MATRIX_PROFILE.SVG // KEEP BUILDING. KEEP SHIPPING.
+    </text>
+
+    <text x="1160" y="665"
+          text-anchor="end"
+          class="mono"
+          font-size="11"
+          fill="#4fbd7c">
+      END_OF_LINE_
+    </text>
+
+    <!-- STATUS LINE -->
+
+    <text x="40" y="704"
+          class="mono"
+          font-size="11"
+          fill="#36ff86">
+      SYSTEM STATUS:
+      <tspan fill="#d4ffe2"> ALL SYSTEMS OPERATIONAL</tspan>
+    </text>
+
+    <text x="1160" y="704"
+          text-anchor="end"
+          class="mono"
+          font-size="11"
+          fill="#36ff86">
+      PROJECTS LOADED: 06
+    </text>
+
+    <!-- ANIMATED SCAN LINE -->
+
+    <rect x="20" y="0"
+          width="1160"
+          height="2"
+          fill="#7affab"
+          opacity=".2">
+      <animate attributeName="y"
+               values="0;798;0"
+               dur="7s"
+               repeatCount="indefinite"/>
+    </rect>
+
+  </g>
+</svg>

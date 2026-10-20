@@ -109,32 +109,33 @@
     <g fill="#00ff41" font-family="'Consolas', 'Courier New', monospace" font-size="14" opacity="0.45">
       <!-- Rain column 1 -->
       <text x="25" y="0">
-        <tspan x="25" dy="18">0</tspan><tspan x="25" dy="18">1</tspan><tspan x="25" dy="18">1</tspan>
-        <tspan x="25" dy="18">0</tspan><tspan x="25" dy="18">1</tspan><tspan x="25" dy="18">0</tspan>
-        <tspan x="25" dy="18">1</tspan><tspan x="25" dy="18">1</tspan>
+        <tspan x="25" dy="18">S</tspan><tspan x="25" dy="18">R</tspan><tspan x="25" dy="18">E</tspan>
+        <tspan x="25" dy="18">E</tspan><tspan x="25" dy="18">R</tspan><tspan x="25" dy="18">A</tspan>
+        <tspan x="25" dy="18">G</tspan><tspan x="25" dy="18">4</tspan><tspan x="25" dy="18">4</tspan><tspan x="25" dy="18">4</tspan>
         <animateTransform attributeName="transform" type="translate" values="0 -140; 0 520" dur="8s" repeatCount="indefinite"/>
       </text>
 
       <!-- Rain column 2 -->
       <text x="680" y="0">
-        <tspan x="680" dy="18">1</tspan><tspan x="680" dy="18">0</tspan><tspan x="680" dy="18">0</tspan>
-        <tspan x="680" dy="18">1</tspan><tspan x="680" dy="18">1</tspan><tspan x="680" dy="18">0</tspan>
-        <tspan x="680" dy="18">1</tspan><tspan x="680" dy="18">0</tspan>
+        <tspan x="680" dy="18">S</tspan><tspan x="680" dy="18">R</tspan><tspan x="680" dy="18">E</tspan>
+        <tspan x="680" dy="18">E</tspan><tspan x="680" dy="18">R</tspan><tspan x="680" dy="18">A</tspan>
+        <tspan x="680" dy="18">G</tspan><tspan x="680" dy="18">4</tspan><tspan x="680" dy="18">4</tspan><tspan x="680" dy="18">4</tspan>
         <animateTransform attributeName="transform" type="translate" values="0 -100; 0 550" dur="9.5s" repeatCount="indefinite"/>
       </text>
 
       <!-- Rain column 3 (Behind Operative) -->
       <text x="735" y="0" opacity="0.3">
-        <tspan x="735" dy="18">0</tspan><tspan x="735" dy="18">1</tspan><tspan x="735" dy="18">0</tspan>
-        <tspan x="735" dy="18">1</tspan><tspan x="735" dy="18">1</tspan><tspan x="735" dy="18">0</tspan>
+        <tspan x="735" dy="18">S</tspan><tspan x="735" dy="18">R</tspan><tspan x="735" dy="18">E</tspan>
+        <tspan x="735" dy="18">E</tspan><tspan x="735" dy="18">R</tspan><tspan x="735" dy="18">A</tspan>
+        <tspan x="735" dy="18">G</tspan><tspan x="735" dy="18">4</tspan><tspan x="735" dy="18">4</tspan><tspan x="735" dy="18">4</tspan>
         <animateTransform attributeName="transform" type="translate" values="0 -120; 0 500" dur="11s" repeatCount="indefinite"/>
       </text>
 
       <!-- Rain column 4 (Far Right) -->
       <text x="1145" y="0">
-        <tspan x="1145" dy="18">1</tspan><tspan x="1145" dy="18">1</tspan><tspan x="1145" dy="18">0</tspan>
-        <tspan x="1145" dy="18">1</tspan><tspan x="1145" dy="18">0</tspan><tspan x="1145" dy="18">1</tspan>
-        <tspan x="1145" dy="18">0</tspan><tspan x="1145" dy="18">0</tspan>
+        <tspan x="1145" dy="18">S</tspan><tspan x="1145" dy="18">R</tspan><tspan x="1145" dy="18">E</tspan>
+        <tspan x="1145" dy="18">E</tspan><tspan x="1145" dy="18">R</tspan><tspan x="1145" dy="18">A</tspan>
+        <tspan x="1145" dy="18">G</tspan><tspan x="1145" dy="18">4</tspan><tspan x="1145" dy="18">4</tspan><tspan x="1145" dy="18">4</tspan>
         <animateTransform attributeName="transform" type="translate" values="0 0; 0 600" dur="7.5s" repeatCount="indefinite"/>
       </text>
     </g>
@@ -438,9 +439,9 @@
     <!-- Matrix Code Rain Layer Over Character Right Edge -->
     <g fill="#00ff41" font-family="'Consolas', monospace" font-size="14" opacity="0.6">
       <text x="1080" y="0">
-        <tspan x="1080" dy="16">1</tspan><tspan x="1080" dy="16">0</tspan><tspan x="1080" dy="16">1</tspan>
-        <tspan x="1080" dy="16">0</tspan><tspan x="1080" dy="16">0</tspan><tspan x="1080" dy="16">1</tspan>
-        <tspan x="1080" dy="16">1</tspan>
+        <tspan x="1080" dy="16">S</tspan><tspan x="1080" dy="16">R</tspan><tspan x="1080" dy="16">E</tspan>
+        <tspan x="1080" dy="16">E</tspan><tspan x="1080" dy="16">R</tspan><tspan x="1080" dy="16">A</tspan>
+        <tspan x="1080" dy="16">G</tspan><tspan x="1080" dy="16">4</tspan><tspan x="1080" dy="16">4</tspan><tspan x="1080" dy="16">4</tspan>
         <animateTransform attributeName="transform" type="translate" values="0 -100; 0 550" dur="9s" repeatCount="indefinite"/>
       </text>
     </g>
