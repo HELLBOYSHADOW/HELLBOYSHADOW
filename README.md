@@ -3,12 +3,30 @@
 </a>
 
 
-<p align="center">
-  <a href="https://lestofc.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-sushmitadasari.github.io-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=githubpages" alt="Portfolio website"></a>
-  <a href="https://www.linkedin.com/in/sushmita-dasari-227a40284/"><img src="https://img.shields.io/badge/LinkedIn-sushmita--dasari-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI0Y4RjBGMyIgZD0iTTIwLjQ1IDIwLjQ1aC0zLjU2di01LjU3YzAtMS4zMy0uMDItMy4wNC0xLjg1LTMuMDQtMS44NiAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjhaTTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEzIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTNaTTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDVaTTIyLjIyIDBIMS43N0MuNzkgMCAwIC43NyAwIDEuNzN2MjAuNTRDMCAyMy4yMy43OSAyNCAxLjc3IDI0aDIwLjQ1Yy45OCAwIDEuNzgtLjc3IDEuNzgtMS43M1YxLjczQzI0IC43NyAyMy4yIDAgMjIuMjIgMFoiLz48L3N2Zz4=" alt="LinkedIn profile"></a>
-  <a href="https://leetcode.com/u/sushmita_dasari/"><img src="https://img.shields.io/badge/LeetCode-sushmita__dasari-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=leetcode" alt="LeetCode profile sushmita_dasari"></a>
-  <a href="mailto:sushmitadasari17@gmail.com"><img src="https://img.shields.io/badge/Email-sushmitadasari17@gmail.com-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=gmail" alt="Email sushmitadasari17@gmail.com"></a>
-</p>
+<table align="center" style="border: 1px solid #00FF41; border-collapse: separate; border-spacing: 10px; background-color: #050505; border-radius: 8px;">
+  <tr>
+    <td>
+      <a href="https://lestofc.vercel.app/">
+        <img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.linkedin.com/in/sushmita-dasari-227a40284/">
+        <img src="https://img.shields.io/badge/LinkedIn-00C853?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+      </a>
+    </td>
+    <td>
+      <a href="https://leetcode.com/u/sushmita_dasari/">
+        <img src="https://img.shields.io/badge/LeetCode-00C853?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
+      </a>
+    </td>
+    <td>
+      <a href="mailto:sushmitadasari17@gmail.com">
+        <img src="https://img.shields.io/badge/Email-00C853?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+      </a>
+    </td>
+  </tr>
+</table>
 
 <img src="assets/title-about.svg" width="100%" alt="01 About — Hello, I'm Sushmita.">
 <img src="assets/about.svg" width="100%" alt="About: AI/ML Engineer and Full-Stack Developer. B.Tech in AI and ML at Aditya Engineering College, CGPA 9.10. Full-Stack Development Trainee at Technical Hub, 2025 to 2026. Shipped PolicyGuard AI, a payment gateway, a multi-tenant SaaS platform and StarCloset. Primary language Java; ML in Python; drawn to system design, AWS and machine learning.">
