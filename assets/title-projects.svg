@@ -1,0 +1,254 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 1200 120"
+     width="1200"
+     height="120"
+     role="img"
+     aria-label="01 About: Hello, I'm Sreerag.">
+
+  <defs>
+    <!-- Matrix green divider -->
+    <linearGradient id="matrix-line"
+                    gradientUnits="userSpaceOnUse"
+                    x1="40" y1="0"
+                    x2="1160" y2="0">
+      <stop offset="0" stop-color="#00FF41"/>
+      <stop offset=".6" stop-color="#008F11"/>
+      <stop offset="1" stop-color="#003B0B" stop-opacity="0"/>
+    </linearGradient>
+
+    <!-- Animated text sheen -->
+    <linearGradient id="matrix-sheen"
+                    gradientUnits="userSpaceOnUse"
+                    x1="-300" y1="0"
+                    x2="0" y2="0">
+      <stop offset="0" stop-color="#008F11"/>
+      <stop offset=".5" stop-color="#D5FFE0"/>
+      <stop offset="1" stop-color="#00FF41"/>
+
+      <animateTransform
+        attributeName="gradientTransform"
+        type="translate"
+        values="0 0;1500 0;1500 0"
+        keyTimes="0;.4;1"
+        dur="7s"
+        begin="1.5s"
+        repeatCount="indefinite"/>
+    </linearGradient>
+
+    <!-- Green glow -->
+    <filter id="matrix-glow"
+            x="-50%" y="-50%"
+            width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Scanning pulse -->
+    <radialGradient id="matrix-pulse">
+      <stop offset="0" stop-color="#D5FFE0"/>
+      <stop offset=".45" stop-color="#00FF41" stop-opacity=".65"/>
+      <stop offset="1" stop-color="#00FF41" stop-opacity="0"/>
+    </radialGradient>
+
+    <clipPath id="matrix-clip">
+      <rect width="1200" height="120"/>
+    </clipPath>
+  </defs>
+
+  <style>
+    .matrix-serif {
+      font-family: Georgia, "Times New Roman", serif;
+    }
+
+    .matrix-mono {
+      font-family: "Courier New", monospace;
+    }
+
+    .matrix-in {
+      animation: matrix-in 1s cubic-bezier(.16,1,.3,1) both;
+    }
+
+    .matrix-delay-2 {
+      animation-delay: .2s;
+    }
+
+    .matrix-delay-3 {
+      animation-delay: .45s;
+    }
+
+    .matrix-draw {
+      stroke-dasharray: 1200;
+      stroke-dashoffset: 1200;
+      animation: matrix-draw 1.8s cubic-bezier(.65,0,.35,1) .5s forwards;
+    }
+
+    .matrix-blink {
+      animation: matrix-blink 1s steps(2,start) infinite;
+    }
+
+    @keyframes matrix-in {
+      from {
+        opacity: 0;
+        transform: translateY(12px);
+      }
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+
+    @keyframes matrix-draw {
+      to {
+        stroke-dashoffset: 0;
+      }
+    }
+
+    @keyframes matrix-blink {
+      0%, 49% {
+        opacity: 1;
+      }
+      50%, 100% {
+        opacity: 0;
+      }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      .matrix-in {
+        animation: none;
+      }
+
+      .matrix-draw {
+        animation: none;
+        stroke-dashoffset: 0;
+      }
+    }
+  </style>
+
+  <g clip-path="url(#matrix-clip)">
+
+    <!-- Transparent background: no background rectangle -->
+
+    <!-- Top system indicator -->
+    <g class="matrix-in matrix-mono"
+       font-size="9"
+       letter-spacing="1.5"
+       fill="#00FF41">
+
+      <circle cx="42" cy="16" r="3" fill="#00FF41">
+        <animate attributeName="opacity"
+                 values="1;.3;1"
+                 dur="2s"
+                 repeatCount="indefinite"/>
+      </circle>
+
+      <text x="52" y="19" opacity=".8">
+        SYSTEM://ABOUT
+      </text>
+
+      <text x="1160" y="19"
+            text-anchor="end"
+            opacity=".75">
+        <tspan fill="#00FF41">●</tspan>
+        SYSTEM ONLINE
+      </text>
+    </g>
+
+    <!-- Section number -->
+    <g class="matrix-in">
+      <text class="matrix-mono"
+            x="40"
+            y="47"
+            font-size="12"
+            letter-spacing="3"
+            fill="#00FF41"
+            filter="url(#matrix-glow)">
+
+        <tspan fill="#D5FFE0">02</tspan>
+        <tspan fill="#008F11"> // </tspan>
+        <tspan>PROJECTS</tspan>
+      </text>
+    </g>
+
+    <!-- Main heading -->
+    <g class="matrix-in matrix-delay-2">
+      <text class="matrix-serif"
+            x="38"
+            y="87"
+            font-size="38"
+            font-weight="300"
+            letter-spacing="-1"
+            fill="#D5FFE0">
+          PROJECTS
+      </text>
+    </g>
+
+    <!-- Right-side label -->
+    <g class="matrix-in matrix-delay-3">
+      <text class="matrix-mono"
+            x="1160"
+            y="47"
+            text-anchor="end"
+            font-size="10"
+            letter-spacing="2"
+            fill="#00FF41">
+        WHO_I_AM
+      </text>
+
+      <text class="matrix-mono"
+            x="1160"
+            y="65"
+            text-anchor="end"
+            font-size="9"
+            letter-spacing="1"
+            fill="#4B9B63">
+        INITIALIZING PROFILE
+      </text>
+    </g>
+
+    <!-- Animated divider -->
+    <path class="matrix-draw"
+          d="M40 106 H1160"
+          stroke="url(#matrix-line)"
+          stroke-width="1"/>
+
+    <!-- Scanning light -->
+    <circle cx="40" cy="106"
+            r="8"
+            fill="url(#matrix-pulse)"
+            opacity="0">
+
+      <animate attributeName="cx"
+               values="40;1160"
+               dur="6s"
+               begin="2.3s"
+               repeatCount="indefinite"
+               calcMode="spline"
+               keyTimes="0;1"
+               keySplines=".45 0 .55 1"/>
+
+      <animate attributeName="opacity"
+               values="0;1;0"
+               keyTimes="0;.15;1"
+               dur="6s"
+               begin="2.3s"
+               repeatCount="indefinite"/>
+    </circle>
+
+    <!-- Blinking cursor -->
+    <rect x="1160"
+          y="100"
+          width="2"
+          height="12"
+          fill="#00FF41"
+          class="matrix-blink"/>
+
+    <!-- Bottom divider -->
+    <path d="M0 119 H1200"
+          stroke="#00FF41"
+          stroke-opacity=".25"/>
+
+  </g>
+</svg>

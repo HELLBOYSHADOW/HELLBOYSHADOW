@@ -45,11 +45,17 @@
 <a href="https://lestofc.vercel.app/">
 <img src="assets/services.svg" width="100%" alt="02 Recognition — Proof, on the record.">
 </a>
-<img src="assets/achievement-motif-v2.svg" width="100%" alt="Flipkart GRiD 7.0 National Semi-Finalist; Myntra WeForShe HackerRamp 2026 Top 100 Team; CGPA 9.10; LeetCode 400+ problems with peak rating 1321; GeeksforGeeks 400+ problems with rating 1464; CodeChef 415+ problems; HackerRank 5 stars in C, Python and Java.">
+
+<a href="https://lestofc.vercel.app/">
+<img src="assets/title-projects.svg" width="100%" alt="01 About — Hello, I'm Sushmita.">
+</a>
+
+
+<img src="assets/learnify.svg" width="100%" alt="Flipkart GRiD 7.0 National Semi-Finalist; Myntra WeForShe HackerRamp 2026 Top 100 Team; CGPA 9.10; LeetCode 400+ problems with peak rating 1321; GeeksforGeeks 400+ problems with rating 1464; CodeChef 415+ problems; HackerRank 5 stars in C, Python and Java.">
 
 <img src="assets/title-work.svg" width="100%" alt="03 Selected work — Products, not assignments.">
 
-<img src="assets/project-policyguard-v2.svg" width="100%" alt="PolicyGuard AI: LLM Q&A and key-information extraction for 10+ document types across web, extension, mobile and desktop. 500+ documents processed, 92% accuracy, 60% less manual review time. Python, NLP, LLM, REST API.">
+<img src="assets/whatsapp-bot.svg" width="100%" alt="PolicyGuard AI: LLM Q&A and key-information extraction for 10+ document types across web, extension, mobile and desktop. 500+ documents processed, 92% accuracy, 60% less manual review time. Python, NLP, LLM, REST API.">
 
 <a href="https://github.com/Sushmitadasari/Payment-gateway-system-Project"><img src="assets/project-payment-gateway-v2.svg" width="100%" alt="Payment Gateway System: UPI and card payments on a strict processing, success or failed state machine. 1,000+ transactions, 99.8% uptime, 3x throughput. Node.js, Express, PostgreSQL, React, Docker."></a>
 <p align="center">
