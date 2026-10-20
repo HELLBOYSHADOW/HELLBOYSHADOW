@@ -9,7 +9,7 @@
   <a href="mailto:sushmitadasari17@gmail.com"><img src="https://img.shields.io/badge/Email-sushmitadasari17@gmail.com-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=gmail" alt="Email sushmitadasari17@gmail.com"></a>
 </p>
 
-<img src="assets/title-about.svg" width="100%" alt="01 About — Hello, I'm Sushmita.">
+<img src="assets/about.svg" width="100%" alt="01 About — Hello, I'm Sushmita.">
 <img src="assets/about-intro.svg" width="100%" alt="About: AI/ML Engineer and Full-Stack Developer. B.Tech in AI and ML at Aditya Engineering College, CGPA 9.10. Full-Stack Development Trainee at Technical Hub, 2025 to 2026. Shipped PolicyGuard AI, a payment gateway, a multi-tenant SaaS platform and StarCloset. Primary language Java; ML in Python; drawn to system design, AWS and machine learning.">
 
 <img src="assets/title-recognition.svg" width="100%" alt="02 Recognition — Proof, on the record.">
