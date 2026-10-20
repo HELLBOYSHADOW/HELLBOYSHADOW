@@ -2,20 +2,31 @@
   <img src="assets/profile.svg" width="100%" alt="SREERAG R — AI/ML Engineer, Full-Stack Developer and Software Developer.">
 </a>
 
-<p align="center">
-  <a href="https://lestofc.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="https://www.linkedin.com/in/sushmita-dasari-227a40284/">
-    <img src="https://img.shields.io/badge/LinkedIn-00C853?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://leetcode.com/u/sushmita_dasari/">
-    <img src="https://img.shields.io/badge/LeetCode-00C853?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
-  </a>
-  <a href="mailto:sushmitadasari17@gmail.com">
-    <img src="https://img.shields.io/badge/Email-00C853?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+<table align="center" border="1" bordercolor="#00FF41" cellpadding="8">
+  <tr>
+    <td>
+      <a href="https://lestofc.vercel.app/">
+        <img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.linkedin.com/in/sushmita-dasari-227a40284/">
+        <img src="https://img.shields.io/badge/LinkedIn-00C853?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+      </a>
+    </td>
+    <td>
+      <a href="https://leetcode.com/u/sushmita_dasari/">
+        <img src="https://img.shields.io/badge/LeetCode-00C853?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
+      </a>
+    </td>
+    <td>
+      <a href="mailto:sushmitadasari17@gmail.com">
+        <img src="https://img.shields.io/badge/Email-00C853?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+      </a>
+    </td>
+  </tr>
+</table>
+
 <img src="assets/about.svg" width="100%" alt="01 About — Hello, I'm Sushmita.">
 <img src="assets/about-intro.svg" width="100%" alt="About: AI/ML Engineer and Full-Stack Developer. B.Tech in AI and ML at Aditya Engineering College, CGPA 9.10. Full-Stack Development Trainee at Technical Hub, 2025 to 2026. Shipped PolicyGuard AI, a payment gateway, a multi-tenant SaaS platform and StarCloset. Primary language Java; ML in Python; drawn to system design, AWS and machine learning.">
 
